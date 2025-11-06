@@ -148,11 +148,11 @@ function App() {
                 <ul className="space-y-4">
                   <li className="text-white text-lg leading-relaxed flex items-start">
                     <span className="text-amber-400 mr-3 mt-1.5">•</span>
-                    <span>Safeguarding residential areas in <strong className="font-bold">wildland-urban interfaces</strong> with <strong className="font-bold">precision barriers deployment</strong>.</span>
+                    <span>Extindro deploys Fire Barriers made of heat-resistance materials by a coordinated team of drones, along fire-restricting lines at the most critical locations.</span>
                   </li>
                   <li className="text-white text-lg leading-relaxed flex items-start">
                     <span className="text-amber-400 mr-3 mt-1.5">•</span>
-                    <span>Enabling <strong className="font-bold">controlled prescribed burns</strong> and reducing <strong className="font-bold">canopy fires</strong>.</span>
+                    <span>Extindro constructs <strong className="font-bold">self-controlled prescribed burns</strong>, for ultimate fire extinguishing.</span>
                   </li>
                   <li className="text-white text-lg leading-relaxed flex items-start">
                     <span className="text-amber-400 mr-3 mt-1.5">•</span>
@@ -160,7 +160,7 @@ function App() {
                   </li>
                   <li className="text-white text-lg leading-relaxed flex items-start">
                     <span className="text-amber-400 mr-3 mt-1.5">•</span>
-                    <span>Protecting <strong className="font-bold">essential facilities</strong> with <strong className="font-bold">rapid-response fire barriers</strong>.</span>
+                    <span>We use accurate wildfires models considering local topography, vegetation and real-time measurements (e.g. wind direction).</span>
                   </li>
                 </ul>
               </div>
